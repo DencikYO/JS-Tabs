@@ -1,5 +1,5 @@
 # JS-Tabs
-Simple tabs functionality using HTML, CSS, and basic JavaScript
+Simple tabs functionality using HTML, CSS, and basic JavaScript \
 Project link:
 https://roadmap.sh/projects/simple-tabs
 
